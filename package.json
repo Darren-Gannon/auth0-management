@@ -1,6 +1,6 @@
 {
     "name": "@darren_gannon/auth0-management",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A library to connect nestjs to auth0 management",
     "main": "dist/index",
     "types": "dist/index",
